@@ -1,0 +1,9 @@
+{
+	"token":"discordtoken",
+	"prefix":"!",
+	"MC64ver":"12.0.16868.400",
+	"MClogfiles":["ATPluginProxy", "TWSTradingPlugin"],
+	"resendtimers":5,
+	"resendlimit":99,
+	"screenshot":0.5
+}
